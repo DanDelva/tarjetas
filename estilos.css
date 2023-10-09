@@ -1,0 +1,43 @@
+.tarjeta{
+
+    border: 2px solid black;
+    width: 300px;
+    padding:10px;
+    border-radius: 6px;
+    box-shadow: violet 0px 0px 10px;
+
+}
+.tarjeta img{
+width: 300px;
+height: 240px;
+
+
+}
+.titulo-tarjeta{
+
+    text-align: center;
+    font-weight: 800;
+    padding-bottom: 20px;
+    border-bottom: 4px solid violet;
+    background-color: blueviolet;
+    color: aqua;
+    font-size: 20px;
+
+}
+.tarjeta div{
+
+padding: 15px;
+}
+.descripcion{
+    text-align: justify;
+}
+.precio{
+    text-align: center;
+}
+.tarjeta button{
+    padding: 10px;
+    background-color: brown;
+    color: beige;
+    font-size: 25px;
+    border: 1px solid  black
+}
